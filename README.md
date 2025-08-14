@@ -5,3 +5,4 @@ Tingkat Pemula (Basic)
 2. Menghitung Lingkaran ✓
 3. Menghitung Suhu ✓
 4. Menentukan Bilangan GanjiGenap ✓
+5. Faktorial ✓
