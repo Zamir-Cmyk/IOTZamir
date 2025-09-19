@@ -1,4 +1,4 @@
-#include <iostring>
+#include <iostream>
 #include <string>
 #include <algorithm>
 
@@ -9,7 +9,7 @@ int main(){
 
   cout << "Masukkan sebuah string: ";
   getline(cin, teks);
-  reverse(teks.begin());
+  reverse(teks.begin(), teks.end());
   cout << "Hasil string setelah dibalik: " << teks << endl;
   return 0;
 }
